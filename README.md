@@ -80,5 +80,6 @@ errore per le credenziali, questo è un’altro grosso campanello d’allarme <b
 • Ispezionando la mail vera (il codice) ci sono moltissime informazioni diverse dalle
 mail originali di Linkedin <br>
 • Google suggerisce che il sito è non sicuro <br>
+
 ➡️ [Questo è un sito esempio phishing creato da me](https://github.com/OctavianIT/Octavian_Ceresau_Phishing/blob/main/Octavian_Ceresau_Phishing/FotoVarie/FakeLD.png)
 
