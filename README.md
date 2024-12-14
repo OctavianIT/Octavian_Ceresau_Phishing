@@ -5,10 +5,10 @@ tecniche funzionino al meglio l'attacante deve avere buona conoscenza del Social
 
 ## **Indice**📘
 1. [Introduzione](#introduzione)
-2. [Phishing mail](#)
-3. [Obiettivo](#)
-4. [Scenario](#)
-5. [Prevenzione](#)
+2. [Phishing mail](#phishing-mail)
+3. [Obiettivo](#obiettivo)
+4. [Scenario](#scenario)
+5. [Prevenzione](#prevenzione)
 
 ## **Introduzione**
 La mail sarà di tipologia [spear phishing](https://www.ibm.com/it-it/topics/spear-phishing), ovvero email indirizzata a un individuo ben scelto.
@@ -25,7 +25,7 @@ EPRcomunicazione… Paola Garifi è davvero chi dice di essere?
 ## **Obiettivo**🎯
 L’obiettivo di questa email spear phishing è ottenere le credenziali di Paola Garifi, la
 presidente di EPRcomunicazione. Una volta ottenute le credenziali sarà possibile diffondere
-un ![ransomware](https://www.ibm.com/it-it/topics/ransomware) interno (dipendenti dell’azienda) ed esterno (partner dell’azienda)
+un [ransomware](https://www.ibm.com/it-it/topics/ransomware) interno (dipendenti dell’azienda) ed esterno (partner dell’azienda)
 
 ## **Scenario**
 #### **Paola Garifi - pt.1**👩🏻
