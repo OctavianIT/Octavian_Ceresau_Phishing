@@ -70,16 +70,16 @@ l’intero staff aprono l’allegato e una volta passati 10 minuti….
 -Pagare entro la scadenza o tutti i file verranno distrutti e divulgati a fonti esterne
 ```
 
-## **Prevenzione**🛡️
-• Nella mail andando al footer si può vedere che Paola Garifi è scritto in modo diverso <br>
-• Ispezionando il corpo della mail o guardando la mail mittente vicino al titolo si vedrà
+## **Prevenzione**
+🛡️ Nella mail andando al footer si può vedere che Paola Garifi è scritto in modo diverso <br>
+🛡️ Ispezionando il corpo della mail o guardando la mail mittente vicino al titolo si vedrà
 che non combacia con la mail originale di Linkedin <br>
-• Una volta digitate le credenziali nella pagina Linkedin non da nessun messaggio di
+🛡️ Una volta digitate le credenziali nella pagina Linkedin non da nessun messaggio di
 errore per le credenziali, questo è un’altro grosso campanello d’allarme <br>
-• L’url del sito aperto non combacia con quello della login page di Linkedin <br>
-• Ispezionando la mail vera (il codice) ci sono moltissime informazioni diverse dalle
+🛡️ L’url del sito aperto non combacia con quello della login page di Linkedin <br>
+🛡️ Ispezionando la mail vera (il codice) ci sono moltissime informazioni diverse dalle
 mail originali di Linkedin <br>
-• Google suggerisce che il sito è non sicuro <br>
+🛡️ Google suggerisce che il sito è non sicuro <br>
 
 ➡️ [Questo è un sito esempio phishing creato da me](https://github.com/OctavianIT/Octavian_Ceresau_Phishing/blob/main/Octavian_Ceresau_Phishing/FotoVarie/FakeLD.png)
 
