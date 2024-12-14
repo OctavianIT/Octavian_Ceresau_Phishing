@@ -28,7 +28,7 @@ presidente di EPRcomunicazione. Una volta ottenute le credenziali sarà possibil
 un ![ransomware](https://www.ibm.com/it-it/topics/ransomware) interno (dipendenti dell’azienda) ed esterno (partner dell’azienda)
 
 ## **Scenario**
-#### **Paola Garifi - pt.1**
+#### **Paola Garifi - pt.1**👩🏻
 Paola Garifi si trova a New York città che voleva visitare da ormai tanti anni.
 Improvvisamente arriva una mail sul suo telefono che colpisce la sua attenzione:
 “EPRcomunicazione… Paola Garifi è davvero chi dice di essere?”. Paola incuriosita e al
@@ -38,11 +38,11 @@ digita nuovamente le credenziali pensando di aver sbagliato password… ma quest
 fa entrare su linkedin. Una volta entrata su Linkedin Paola non trova nessun post: “Lo
 avranno già cancellato o segnalato, meglio così" pensa Paola.
 
-#### **Criminale - pt.2**
+#### **Criminale - pt.2**👤
 Il Malintenzionato ora ha le credenziali, deve solo aspettare che Paola Garifi vada a dormire
 per poter mandare il ransomware al CEO dell’azienda EPRcomunicazione.
 
-#### **CEO - pt.3**
+#### **CEO - pt.3**🧑🏼‍💼
 Il CEO riceve un messaggio da Paola Garifi che dice questo:
 “Ciao Daniele, spero di non disturbarti, volevo informarti che mi sono appena arrivati i nuovi
 documenti per rimanere in conformità con le legislazioni, ti prego di mandare tutti gli allegati
@@ -50,7 +50,7 @@ al personale e leggerli insieme domani durante le ore lavorative.
 Ora che sono in viaggio almeno per un po’ vorrei rimanere tranquilla il più possibile.
 Ci sentiamo quando torno”
 
-#### **Ransomware - pt.4**
+#### **Ransomware - pt.4**👾
 Ora ti spiegherò le caratteristiche del ransomware.
 Il ransomware funzionerà solamente se il documento verrà aperto su un PC e si attiverà con
 un delay di 10 minuti.
@@ -61,7 +61,7 @@ sul proprio pc ed è anche di grande importanza che non si attivi su dispositivi
 una volta letto il messaggio su linkedin è importante che il telefono non si infetti subito alla
 lettura perché creerebbe uno stato di allarme ancor prima di raggiungere i PC dell’azienda
 
-#### **Infezione - pt.5**
+#### **Infezione - pt.5**⛔
 Daniele aspetta che tutti i dipendenti e lo staff entrino in azienda e si siedano ai loro PC.
 Daniele avverte tutti che ha mandato una mail con l’allegato da leggere. I dipendenti e
 l’intero staff aprono l’allegato e una volta passati 10 minuti….
